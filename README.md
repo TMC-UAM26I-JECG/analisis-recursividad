@@ -1,3 +1,7 @@
+#Instalar matplot para la correcta ejecución del programa
+
+pip install matplot
+
 # Visualizador de Árboles de Recursión
 
 Herramienta educativa en Python que genera y visualiza árboles de llamadas para algoritmos recursivos, permitiendo observar cómo se expande la recursión y comparar diferentes estrategias de optimización.
