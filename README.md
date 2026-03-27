@@ -2,6 +2,8 @@
 
 pip install matplot
 
+## Gráficas creadas
+
 <img width="1791" height="497" alt="image" src="https://github.com/user-attachments/assets/502c449d-b001-4bc5-bdf7-c28de781d199" />
 
 # Visualizador de Árboles de Recursión
