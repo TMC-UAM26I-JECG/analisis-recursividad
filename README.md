@@ -1,4 +1,4 @@
-#Instalar matplot para la correcta ejecución del programa
+# Instalar matplot para la correcta ejecución del programa
 
 pip install matplot
 
